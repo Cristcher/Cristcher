@@ -1,4 +1,4 @@
-<img src = "https://github.com/user-attachments/assets/8e6766cb-40b8-4bf0-8520-2520d3d9f46c" alt = "Banner">
+<img src="https://github.com/user-attachments/assets/95da0c53-ddda-4685-af46-2662ce6b549c" alt = "Banner">
 <br>
 <h2 align="center">
 I'm a Full-Stack Developer 💻 and Designer 🎨!

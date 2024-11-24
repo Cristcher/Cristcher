@@ -23,5 +23,5 @@ I'm a Full-Stack Developer 💻 and Designer 🎨!
 ### 🤝 Connect with me:
 
 <a href="https://vk.com/shizalemon"><img align="left" src="https://github.com/user-attachments/assets/b0e834cf-ea8b-40f1-aed6-5b37fa1adb10" alt="" width="21px"/></a>
-<a href="https://t.me/LITERALLYNOB0DY"><img align="left" src="https://github.com/user-attachments/assets/eee6540d-6b70-472a-9b38-9fad51614657" alt="" width="21px"/></a>
+<a href="https://t.me/LITERALLYNOB0DY"><img align="left" src="https://github.com/user-attachments/assets/53327376-7862-41df-8580-0b56e3fe2818" alt="" width="21px"/></a>
 </br>

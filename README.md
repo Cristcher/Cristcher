@@ -3,7 +3,6 @@
 <h2 align="center">
 I'm a Full-Stack Developer 💻 and Designer 🎨!
 </h2> 
-Sorry, but right now all my projects are not open source. :(
 <br>
 ## 💼 Technical Skills
 </br>
